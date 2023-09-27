@@ -1,0 +1,13 @@
+/* Write your CSS here */
+
+.bg-container {
+  background-color: #000000;
+  min-height: 80vh;
+  width: 50vw;
+  margin-left: 50px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding-bottom: 40px;
+}
